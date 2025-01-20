@@ -2,4 +2,4 @@
 
 
 ## Demo 
-<img src="image_caption" alt="Demo Screenshot" width="800">
+<img src="image_caption.png" alt="Demo Screenshot" width="800">
